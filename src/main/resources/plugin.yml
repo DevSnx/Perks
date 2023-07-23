@@ -1,0 +1,4 @@
+name: Perks
+version: '${project.version}'
+main: de.devsnx.perks.Perks
+api-version: '1.20'

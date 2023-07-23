@@ -1,0 +1,16 @@
+###################################
+#                                 #
+#        PerkSystem v1.0.0        #
+#                                 #
+###################################
+
+# CHANGE THE DATABASE TYP (mysql or sqllite)
+databasetyp: mysql
+
+# MYSQL LOGIN
+mysql:
+  host:
+  port:
+  database:
+  user:
+  password:
